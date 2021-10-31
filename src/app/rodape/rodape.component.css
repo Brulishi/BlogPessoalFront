@@ -1,5 +1,5 @@
 ul.social-network{
-    list-style: nome;
+    list-style: none;
     padding: 0;
 }
 
@@ -10,7 +10,7 @@ ul.social-network li{
 }
 
 .fa{
-    font-size: 35pt;
+    font-size: 2rem;
     color: white;
     padding: 10px;
 }
